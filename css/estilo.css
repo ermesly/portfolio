@@ -1,0 +1,49 @@
+body {
+    background-color: #F9F6FE;
+    text-align: center;
+    font-family: 'Roboto', sans-serif;
+}
+
+.pessoas{
+   /*border: 10px solid red;*/ 
+}
+.pessoas > img{
+    width: 20%;
+ }
+
+ .foto{
+    width: 2.0rem;
+ }
+
+ header{
+     /*border: 3px solid red;*/
+     width: 70%;
+     margin: auto;
+ }
+
+ section{
+     /*border: 3px solid red;*/
+     width: 70%;
+     margin: auto;
+ }
+
+ .ensi{
+     color: white;
+     text-decoration: none;
+     font-weight: 800;
+    font-size: 80%;
+    padding: 10px 30px;
+    border-radius: 30px;
+    border:none;
+    box-shadow: 0 0.2rem 0.7rem rgba(89, 0, 255, 0.275);
+    background: linear-gradient(129deg, rgba(110,38,226,1) 0%, rgba(72,127,191,1) 62%);
+ }
+ 
+    
+
+ footer{
+    background-color: #e9e9e9;
+    padding-top: 20px;
+    width: 100%;
+    margin-top: 50px;
+}
