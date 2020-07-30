@@ -35,8 +35,10 @@ body {
     padding: 10px 30px;
     border-radius: 30px;
     border:none;
-    box-shadow: 0 0.2rem 0.7rem rgba(89, 0, 255, 0.275);
+    box-shadow: 0 0.2rem 0.7rem rgba(87, 10, 231, 0.275);
     background: linear-gradient(129deg, rgba(110,38,226,1) 0%, rgba(72,127,191,1) 62%);
+    width: 20%;
+     margin: auto;
  }
  
     
